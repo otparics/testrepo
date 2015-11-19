@@ -6,6 +6,10 @@ char *p = s;
       ++p;
    return (p - s);
 }
+int dummy()
+{
+printf("This is a dummy function");
+}
 int main(void)
 {
    int i;
