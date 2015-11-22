@@ -10,9 +10,9 @@ int dummy1()
 {
 printf("/nThis is dummy 1 function/n")
 }
-int dummy()
+int dummy2()
 {
-printf("This is a dummy function");
+printf("/nAdded dummy 2 function/n")
 }
 int main(void)
 {
