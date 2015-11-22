@@ -6,6 +6,10 @@ char *p = s;
       ++p;
    return (p - s);
 }
+int dummy2()
+{
+printf("/nAdded dummy 2 function/n")
+}
 int main(void)
 {
    int i;
