@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*We are in develop branch*/
 int my_strlen(char *s)
 {
 char *p = s;
